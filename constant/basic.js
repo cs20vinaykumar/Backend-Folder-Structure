@@ -1,0 +1,4 @@
+export const ENVIROMENTS = {
+  LOCAL: "LOCAL",
+  DEVLOPMENT: "DEVELOPMENT",
+};
